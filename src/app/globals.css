@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: Satoshi;
+  src: url(../../public/Satoshi-Variable.ttf);
+}
+
+@theme{
+  --color-accent: #5A4FFF;
+  --color-bgtop: #CBCEF4;
+  --color-bglight: #F7F5FB;
+  --color-bgbottom: #E6D5FF;
+  --color-bgtopdark: #000015;
+  --color-bgdark: #000000;
+  --color-bgbottomdark: #0B0114;
+  --color-dark: #4E4B6E;
+  --color-light: #EBF0FF;
+  --color-gradientaccent: #AB7CF4;
+  /* --text-satoshi: "Satoshi" */
+}
+
+*{
+  font-family: 'Satoshi', sans-serif;
+}
