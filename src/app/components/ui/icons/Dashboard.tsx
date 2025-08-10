@@ -34,8 +34,8 @@ const Dashboard = ({size}:{size:number}) => {
           y2="23.4889"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#5A4FFF" />
-          <stop offset="1" stop-color="#AB7CF4" />
+          <stop stopColor="#5A4FFF" />
+          <stop offset="1" stopColor="#AB7CF4" />
         </linearGradient>
         <linearGradient
           id="paint1_linear_57_273"
@@ -45,8 +45,8 @@ const Dashboard = ({size}:{size:number}) => {
           y2="71.4889"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#5A4FFF" />
-          <stop offset="1" stop-color="#AB7CF4" />
+          <stop stopColor="#5A4FFF" />
+          <stop offset="1" stopColor="#AB7CF4" />
         </linearGradient>
         <linearGradient
           id="paint2_linear_57_273"
@@ -56,8 +56,8 @@ const Dashboard = ({size}:{size:number}) => {
           y2="23.4889"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#5A4FFF" />
-          <stop offset="1" stop-color="#AB7CF4" />
+          <stop stopColor="#5A4FFF" />
+          <stop offset="1" stopColor="#AB7CF4" />
         </linearGradient>
         <linearGradient
           id="paint3_linear_57_273"
@@ -67,8 +67,8 @@ const Dashboard = ({size}:{size:number}) => {
           y2="71.4889"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#5A4FFF" />
-          <stop offset="1" stop-color="#AB7CF4" />
+          <stop stopColor="#5A4FFF" />
+          <stop offset="1" stopColor="#AB7CF4" />
         </linearGradient>
       </defs>
     </svg>

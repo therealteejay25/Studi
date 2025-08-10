@@ -1,10 +1,15 @@
 import React from 'react'
-import Sidebar from '../components/ui/shared/Sidebar'
+import DashboardHeader from '../components/ui/DashboardHeader'
 
 const page = () => {
   return (
-    <div className="h-screen flex flex-row bg-gradient-to-b from-bgtop via-bglight to-bgbottom">
-      <Sidebar />
+    <div className="h-full flex flex-row bg-gradient-to-b from-bgtop via-bglight to-bgbottom">
+        <div className='w-full'>
+          <DashboardHeader />
+        </div>
+        <div>
+          
+        </div>
       </div>
   )
 }

@@ -1,18 +1,16 @@
 // import React from 'react'
 
 const Trash = ({
-  height,
-  width,
+  size,
   color,
 }: {
-  height: number;
-  width: number;
+  size:number
   color: string;
 }) => {
   return (
     <svg
-      width={width}
-      height={height}
+      width={size}
+      height={size}
       viewBox="0 0 72 73"
       fill={color}
       xmlns="http://www.w3.org/2000/svg"
